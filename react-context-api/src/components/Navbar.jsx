@@ -6,7 +6,7 @@ function Navbar() {
 
   return (
     <nav className={theme}>
-      <h2>Student Portal</h2>
+      <h2>React Student Portal</h2>
 
       <p>{student.name}</p>
 
