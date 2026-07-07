@@ -8,6 +8,7 @@ function Footer() {
     <footer>
       <p>{student.name}</p>
     </footer>
+    
   );
 }
 
